@@ -1,2 +1,3 @@
 # testGithub
-repository to test functionality of github
+Repository to test functionality of GitHub
+- direct change of master branch
